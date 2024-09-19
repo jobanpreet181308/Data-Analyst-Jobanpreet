@@ -53,7 +53,7 @@ We collected records of building permits issued in Vancouver for the year 2023 &
 - 	Policy Adjustments: Proposed changes to building rules or regulations based on what we learned from the data.
  
 # Tools and Technologies:
- https://github.com/jobanpreet181308/Data-Analyst-Jobanpreet/blob/main/Portfolio%20Project%20Description%20(1).docx
+ (https://github.com/jobanpreet181308/Data-Analyst-Jobanpreet/blob/main/Screenshot%202024-09-18%20233358.png)
 # AWS Services Used:
 1.	Amazon S3: For storing raw and processed datasets with scalable access in various folders.
 2.	AWS Glue Data Brew: For automating data cleaning and preparation.
